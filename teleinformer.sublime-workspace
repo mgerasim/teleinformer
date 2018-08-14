@@ -1,0 +1,366 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"init",
+				"InitOutput"
+			],
+			[
+				"pra",
+				"pravila_obmena_path"
+			],
+			[
+				"co",
+				"contact"
+			],
+			[
+				"drop",
+				"dropdown-menu"
+			],
+			[
+				"new",
+				"news_body"
+			],
+			[
+				"pu",
+				"published_at"
+			],
+			[
+				"news",
+				"news_body"
+			],
+			[
+				"text",
+				"text_content"
+			],
+			[
+				"http",
+				"https"
+			],
+			[
+				"date",
+				"date_string"
+			],
+			[
+				"url",
+				"url_source"
+			],
+			[
+				"form",
+				"form-group"
+			],
+			[
+				"in",
+				"integer"
+			],
+			[
+				"e",
+				"ea\teach { |e| .. }"
+			],
+			[
+				"mar",
+				"margin-right\tproperty"
+			],
+			[
+				"padd",
+				"padding-right\tproperty"
+			],
+			[
+				"modal",
+				"modal-dialog"
+			],
+			[
+				"sel",
+				"self"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/mgerasim/Projects/web/teleinformer"
+	],
+	"file_history":
+	[
+		"/Users/mgerasim/Documents/projects/cryptoobmen/web/app/views/settings/show.html.erb",
+		"/Users/mgerasim/Documents/projects/cryptoobmen/web/app/assets/javascripts/settings.coffee",
+		"/Users/mgerasim/Documents/projects/cryptoobmen/web/app/assets/stylesheets/kassacc.css",
+		"/Users/mgerasim/Documents/projects/cryptoobmen/web/app/assets/stylesheets/application.scss",
+		"/Users/mgerasim/Documents/projects/cryptoobmen/web/app/assets/javascripts/application.js",
+		"/Users/mgerasim/Documents/projects/cryptoobmen/web/app/views/contact/index.html.erb",
+		"/Users/mgerasim/Documents/projects/cryptoobmen/web/app/views/about/index.html.erb",
+		"/Users/mgerasim/Documents/projects/cryptoobmen/web/app/views/pravila_obmena/index.html.erb",
+		"/Users/mgerasim/Documents/projects/cryptoobmen/web/app/controllers/about_controller.rb",
+		"/Users/mgerasim/Documents/projects/cryptoobmen/web/app/controllers/contact_controller.rb",
+		"/Users/mgerasim/Documents/projects/cryptoobmen/web/app/controllers/pravila_obmena_controller.rb",
+		"/Users/mgerasim/Documents/projects/cryptoobmen/web/app/views/layouts/_footer.html.erb",
+		"/Users/mgerasim/Documents/projects/cryptoobmen/web/app/views/layouts/application.html.erb",
+		"/Users/mgerasim/Documents/projects/cryptoobmen/web/app/views/welcome/index.html",
+		"/Users/mgerasim/Documents/projects/cryptoobmen/web/app/assets/javascripts/kassacc.js",
+		"/Users/mgerasim/Documents/projects/cryptoobmen/web/app/views/layouts/_header.html.erb",
+		"/Users/mgerasim/Documents/projects/cryptoobmen/web/config/routes.rb",
+		"/Users/mgerasim/Documents/projects/cryptoobmen/web/Gemfile",
+		"/Users/mgerasim/Documents/projects/cryptoobmen/web/app/views/settings/edit.html.erb",
+		"/Users/mgerasim/Documents/projects/cryptoobmen/web/app/views/layouts/admin.html.erb",
+		"/Users/mgerasim/Documents/projects/cryptoobmen/web/app/views/settings/_form.html.erb",
+		"/Users/mgerasim/Documents/projects/cryptoobmen/web/app/controllers/settings_controller.rb",
+		"/Users/mgerasim/Documents/projects/cryptoobmen/web/app/views/layouts/_adminheader.html.erb",
+		"/Users/mgerasim/Documents/projects/cryptoobmen/web/lib/tasks/news.rake",
+		"/Users/mgerasim/Documents/projects/cryptoobmen/web/app/controllers/cryptocurrencies_controller.rb",
+		"/Users/mgerasim/Documents/projects/cryptoobmen/web/app/controllers/currencies_controller.rb",
+		"/Users/mgerasim/Documents/projects/cryptoobmen/web/app/controllers/exchanges_controller.rb",
+		"/Users/mgerasim/Documents/projects/cryptoobmen/web/app/views/news/_form.html.erb",
+		"/Users/mgerasim/Documents/projects/cryptoobmen/web/app/views/news/index.html.erb",
+		"/Users/mgerasim/Documents/projects/cryptoobmen/web/app/assets/javascripts/kassacc1.js",
+		"/Users/mgerasim/Documents/projects/cryptoobmen/web/app/views/orders/show.html.erb",
+		"/Users/mgerasim/Documents/projects/cryptoobmen/web/app/views/orders/index.html.erb",
+		"/Users/mgerasim/Documents/projects/cryptoobmen/web/app/controllers/banks_controller.rb",
+		"/Users/mgerasim/Documents/projects/cryptoobmen/web/app/views/admin/sessions/new.html.erb",
+		"/Users/mgerasim/Documents/projects/cryptoobmen/web/app/controllers/novosti_controller.rb",
+		"/Users/mgerasim/Documents/projects/cryptoobmen/web/app/controllers/orders_controller.rb",
+		"/Users/mgerasim/Documents/projects/cryptoobmen/web/config/schedule.rb",
+		"/Users/mgerasim/Documents/projects/cryptoobmen/web/app/views/novosti/index.html.erb",
+		"/Users/mgerasim/Documents/projects/cryptoobmen/web/app/views/news/show.html.erb",
+		"/Users/mgerasim/Documents/projects/cryptoobmen/web/app/controllers/news_controller.rb",
+		"/Users/mgerasim/Documents/projects/cryptoobmen/web/db/migrate/20180612070132_add_url_source_to_news.rb",
+		"/Users/mgerasim/Documents/projects/cryptoobmen/web/app/views/banks/_form.html.erb",
+		"/Users/mgerasim/Documents/projects/cryptoobmen/web/app/models/news.rb",
+		"/Users/mgerasim/Documents/projects/cryptoobmen/web/app/assets/stylesheets/admin.scss",
+		"/Users/mgerasim/Documents/projects/cryptoobmen/web/config/application.rb",
+		"/Users/mgerasim/Documents/projects/cryptoobmen/web/app/views/cryptocurrencies/_form.html.erb",
+		"/Users/mgerasim/Documents/projects/cryptoobmen/web/app/views/exchanges/_form.html.erb",
+		"/Users/mgerasim/Documents/projects/cryptoobmen/web/app/views/news/new.html.erb",
+		"/Users/mgerasim/Documents/projects/cryptoobmen/web/app/views/news/edit.html.erb",
+		"/Users/mgerasim/Documents/projects/docman/web/docman/app/controllers/documents_controller.rb",
+		"/Users/mgerasim/Documents/projects/docman/web/docman/app/views/jobpositions/_form.html.erb",
+		"/Users/mgerasim/Documents/projects/docman/web/docman/app/controllers/jobpositions_controller.rb",
+		"/Users/mgerasim/Documents/projects/docman/web/docman/app/controllers/employees_controller.rb",
+		"/Users/mgerasim/Documents/projects/docman/web/docman/db/migrate/20180608083736_add_dispetcher_fields_to_document.rb",
+		"/Users/mgerasim/Documents/projects/docman/web/docman/app/views/layouts/application.html.erb",
+		"/Users/mgerasim/Documents/projects/docman/web/docman/app/views/documents/_form.html.erb",
+		"/Users/mgerasim/Documents/projects/docman/web/docman/app/views/documents/_anamnesis.html.erb",
+		"/Users/mgerasim/Documents/projects/docman/web/docman/app/views/documents/_patient.html.erb",
+		"/Users/mgerasim/Documents/projects/docman/web/docman/app/views/documents/_call_address.html.erb",
+		"/Users/mgerasim/Documents/projects/docman/web/docman/app/views/documents/_status.html.erb",
+		"/Users/mgerasim/Documents/projects/docman/web/docman/app/views/documents/new.html.erb",
+		"/Users/mgerasim/Documents/projects/docman/web/docman/app/views/documents/edit.html.erb",
+		"/Users/mgerasim/Documents/projects/docman/web/docman/app/views/documents/_brigade.html.erb",
+		"/Users/mgerasim/Documents/projects/docman/web/docman/app/views/documents/_complaints.html.erb",
+		"/Users/mgerasim/Documents/projects/docman/web/docman/config/database.yml",
+		"/Users/mgerasim/Documents/projects/docman/web/docman/app/views/employees/new.html.erb",
+		"/Users/mgerasim/Documents/projects/docman/web/docman/app/views/employees/_form.html.erb",
+		"/Users/mgerasim/Documents/projects/docman/web/docman/app/views/employees/edit.html.erb",
+		"/Users/mgerasim/Documents/projects/docman/web/docman/app/views/jobpositions/new.html.erb",
+		"/Users/mgerasim/Documents/projects/docman/web/docman/app/views/jobpositions/edit.html.erb",
+		"/Users/mgerasim/Documents/projects/docman/web/docman/db/migrate/20180508021817_change_encoding.rb",
+		"/Users/mgerasim/Documents/projects/devdevelop/obmen/web/webapp/app/controllers/cryptocurrencies_controller.rb",
+		"/Users/mgerasim/Documents/projects/devdevelop/obmen/web/webapp/config/routes.rb",
+		"/Users/mgerasim/Documents/projects/devdevelop/obmen/web/webapp/db/migrate/20180529074632_create_burses.rb",
+		"/Users/mgerasim/Documents/projects/devdevelop/obmen/web/webapp/db/migrate/20180530064038_add_poloniex_to_burse.rb",
+		"/Users/mgerasim/Documents/projects/devdevelop/obmen/web/webapp/app/views/courses/index.html.erb",
+		"/Users/mgerasim/Documents/projects/devdevelop/obmen/web/webapp/db/migrate/20180530145106_add_livecoin_to_burse.rb",
+		"/Users/mgerasim/Documents/projects/devdevelop/obmen/web/webapp/lib/tasks/course.rake",
+		"/Users/mgerasim/Documents/projects/devdevelop/obmen/web/webapp/db/migrate/20180531075404_add_binance_to_burse.rb",
+		"/Users/mgerasim/Documents/projects/cryptoobmen/web/app/views/welcome/_modalInstructions.html.erb",
+		"/Users/mgerasim/Documents/projects/cryptoobmen/web/app/views/welcome/_input.html.erb",
+		"/Users/mgerasim/Documents/projects/devdevelop/obmen/web/webapp/app/views/layouts/_footer.html.erb",
+		"/Users/mgerasim/Documents/projects/cryptoobmen/app/views/admin/sessions/new.html.erb",
+		"/Users/mgerasim/Documents/projects/cryptoobmen/config/routes.rb",
+		"/Users/mgerasim/Documents/projects/cryptoobmen/app/views/layouts/admin.html.erb"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/Users/mgerasim/Projects/web/teleinformer"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 514.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
