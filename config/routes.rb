@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  resources :outgoings
   get 'main/index'
 
   get 'sessions/new'

@@ -1,0 +1,17 @@
+<p id="notice"><%= notice %></p>
+
+<h1>База исходящих вызовов:</h1>
+
+<table>
+
+  <tbody>
+      <tr>
+        <td>Количество номеров в очереде:</td>
+        <td><%= Outgoing.count %></td>
+      </tr>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to 'New Outgoing', new_outgoing_path %>
