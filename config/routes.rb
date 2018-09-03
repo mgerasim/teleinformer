@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  get 'help/outgoing_destroy_all'
+
   resources :outgoings
   get 'main/index'
 
