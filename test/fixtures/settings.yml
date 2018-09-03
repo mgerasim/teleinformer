@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  mp3file01: 
+  mp3file02: 
+  mp3file03: 
+
+two:
+  mp3file01: 
+  mp3file02: 
+  mp3file03: 

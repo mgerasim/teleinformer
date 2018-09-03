@@ -10,10 +10,27 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20180902230003) do
+ActiveRecord::Schema.define(version: 20180903225828) do
 
   create_table "outgoings", force: :cascade do |t|
     t.string "telephone"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+  end
+
+  create_table "settings", force: :cascade do |t|
+    t.string "mp3file01_file_name"
+    t.string "mp3file01_content_type"
+    t.bigint "mp3file01_file_size"
+    t.datetime "mp3file01_updated_at"
+    t.string "mp3file02_file_name"
+    t.string "mp3file02_content_type"
+    t.bigint "mp3file02_file_size"
+    t.datetime "mp3file02_updated_at"
+    t.string "mp3file03_file_name"
+    t.string "mp3file03_content_type"
+    t.bigint "mp3file03_file_size"
+    t.datetime "mp3file03_updated_at"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
   end

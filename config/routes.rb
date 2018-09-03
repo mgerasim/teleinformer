@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  resources :settings
   get 'help/outgoing_destroy_all'
 
   resources :outgoings
