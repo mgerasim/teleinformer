@@ -12,21 +12,21 @@
   <% end %>
 
   <div class="field">
-    <%= form.label :mp3file01 %>
-    <%= form.text_field :mp3file01, id: :setting_mp3file01 %>
+    <%= form.label "Первый файл:" %>
+    <%= form.file_field :mp3file01, id: :setting_mp3file01 %>
   </div>
 
   <div class="field">
-    <%= form.label :mp3file02 %>
-    <%= form.text_field :mp3file02, id: :setting_mp3file02 %>
+    <%= form.label "Второй файл" %>
+    <%= form.file_field :mp3file02, id: :setting_mp3file02 %>
   </div>
 
   <div class="field">
-    <%= form.label :mp3file03 %>
-    <%= form.text_field :mp3file03, id: :setting_mp3file03 %>
+    <%= form.label "Третий файл" %>
+    <%= form.file_field :mp3file03, id: :setting_mp3file03 %>
   </div>
 
   <div class="actions">
-    <%= form.submit %>
+    <%= form.submit "Сохранить", :class => "btn btn-primary" %>
   </div>
 <% end %>

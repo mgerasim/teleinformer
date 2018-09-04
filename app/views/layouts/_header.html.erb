@@ -10,9 +10,9 @@
         <div class="navbar-collapse collapse navbar-responsive-collapse">
           <ul class="nav navbar-nav">
             <% if logged_in? %>
-                <li><%= link_to "Добавить номера", new_outgoing_path   %></li>
-	        	<li><%= link_to "Link2", "/path2"  %></li>
-    	        <li><%= link_to "Выход", logout_path, method: :delete  %></li>
+                <li><%= link_to "Добавить номера", new_outgoing_path   	%></li>
+	        	<li><%= link_to "Настройки", edit_setting_path(1)  		%></li>
+    	        <li><%= link_to "Выход", logout_path, method: :delete  	%></li>
     	    <% end %>
           </ul>
         </div>
